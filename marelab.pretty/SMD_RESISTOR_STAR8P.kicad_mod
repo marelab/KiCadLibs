@@ -1,0 +1,8 @@
+(module SMD_RESISTOR_STAR8P (layer F.Cu) (tedit 58A5F1E6)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value SMD_RESISTOR_STAR8P (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
